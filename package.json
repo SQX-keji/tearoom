@@ -1,0 +1,18 @@
+{
+  "name": "teahouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "sass": "^1.62.1",
+    "sass-loader": "^10.4.1",
+    "uview-ui": "^2.0.36"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
